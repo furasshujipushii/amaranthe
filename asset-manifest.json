@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/amaranthe/static/css/main.8d194e1f.css",
+    "main.css": "/amaranthe/static/css/main.942be33a.css",
     "main.js": "/amaranthe/static/js/main.eabeb83e.js",
     "static/media/vegetables-set-left-black-slate.jpg": "/amaranthe/static/media/vegetables-set-left-black-slate.f28aca96eef193d9160d.jpg",
     "static/media/prod-bg.webp": "/amaranthe/static/media/prod-bg.4296aa4db38884277971.webp",
@@ -8,11 +8,11 @@
     "static/media/tarte-fraises.jpg": "/amaranthe/static/media/tarte-fraises.84510cb782a8c0f80dcc.jpg",
     "static/media/logo.png": "/amaranthe/static/media/logo.d3dcac2bc9961e496b96.png",
     "index.html": "/amaranthe/index.html",
-    "main.8d194e1f.css.map": "/amaranthe/static/css/main.8d194e1f.css.map",
+    "main.942be33a.css.map": "/amaranthe/static/css/main.942be33a.css.map",
     "main.eabeb83e.js.map": "/amaranthe/static/js/main.eabeb83e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d194e1f.css",
+    "static/css/main.942be33a.css",
     "static/js/main.eabeb83e.js"
   ]
 }
